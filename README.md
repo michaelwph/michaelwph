@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelwph
+- 👋 Hi, I’m Michael.
 - 👀 I’m interested in the field of Artificial Intelligence.
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Computer Vision.
 - 💞️ I’m looking to collaborate on AI related projects.
